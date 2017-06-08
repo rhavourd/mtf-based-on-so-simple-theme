@@ -14,3 +14,13 @@ September 1, 2016.
 
 As a non-profit 501c3 corporation, it is dedicated to the safety and advancement of general aviation.
 
+### Contact:
+
+<table>
+<tr><td>Rick Havourd</td><td>Harry Hammond</td></tr>
+<tr><td>Sponsor Development</td><td>Scholarship Director </td></tr>
+<tr><td>Michigan Takes Flight </td><td> Michigan Takes Flight</td></tr>
+<tr><td>734-231-7793 </td><td> 810-629-5181</td></tr>
+<tr><td>rhavourd@gfpa.org </td><td> hhammond@gfpa.org</td></tr>
+</table>
+

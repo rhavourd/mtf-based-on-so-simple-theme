@@ -4,6 +4,7 @@ title: Press Release
 categories: articles
 excerpt: "Greater Flint Pilots Association announced creation of a 501(c)(3) non-profit named Michigan Takes Flight to promote advancement of affordable flying education and instruction opportunities in the greater Flint, MI area."
 share: true
+author: harry_hammond
 ---
 
 # Press Release 

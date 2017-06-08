@@ -22,6 +22,12 @@ them earn an initial pilot certificate.
 Scholarship applications will be accepted on a continuing basis, with the winner to be announced periodically as new
 positions become available.
 
+Interested candidates should mail their submission to:
+> Michigan Takes Flight  
+> Scholarship Applications  
+> P.O. Box 540  
+> Flushing, MI 48433  
+
 ## The following sholarships are available:
 
 <ul class="post-list">

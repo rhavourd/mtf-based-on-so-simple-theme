@@ -4,7 +4,7 @@ title: Aviation Articles
 excerpt: "An archive of articles sorted by date."
 search_omit: true
 image:
-  feature: lightsportheadon.jpg
+  feature: girl-landing-a32.jpg
 ---
 
 <ul class="post-list">
