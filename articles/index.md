@@ -1,8 +1,10 @@
 ---
 layout: page
-title: Sample Articles
+title: Aviation Articles
 excerpt: "An archive of articles sorted by date."
 search_omit: true
+image:
+  feature: lightsportheadon.jpg
 ---
 
 <ul class="post-list">
