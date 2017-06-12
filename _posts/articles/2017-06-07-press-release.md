@@ -51,4 +51,4 @@ further general aviation.
 **About Michigan Takes Flight:** The nine-member board of directors of 
 Michigan Takes Flight are also the directors of the 
 Greater Flint Pilots Association (GFPA), a premier not-for-profit general aviation recreational flying club based at 
-Flintishop International Airport since 1975. 
+Flint Bishop International Airport since 1975. 
