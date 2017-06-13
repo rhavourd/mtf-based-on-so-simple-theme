@@ -22,8 +22,6 @@ them earn an initial pilot certificate.
 Scholarship applications will be accepted on a continuing basis, with the winner to be announced periodically as new
 positions become available.
 
-{% include mail-to.html %}
-
 ## The following sholarships are available:
 
 <ul class="post-list">

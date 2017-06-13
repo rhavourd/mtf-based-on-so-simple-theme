@@ -2,7 +2,7 @@
 layout: page
 categories: scholarship
 title: David S. Jones MTF Flight Training Scholarship
-excerpt: "Scholarship to provide membership assistance to an individual interested in pursuing flight training."
+excerpt: "The David S. Jones MTF Flight Training Scholarship is made possible by a generous donation from Carol Jones.  It is intended to increase the number of aviation career candidates and help them earn an initial pilot certificate." 
 ---
 
 The David S. Jones MTF Flight Training Scholarship 
@@ -10,15 +10,12 @@ is made possible by a generous donation from Carol Jones.
 It is intended to increase the number of aviation career candidates and help 
 them earn an initial pilot certificate.
 
-Upon conclusion of flight instruction, membership as provided by the scholarship will return to Michigan Takes Flight to be made available for recurring scholarship awards.
-
-<blockquote>
-Please use this page as a template for your submission. We do not expect that you print & fill this out as an official form. 
-Keep in mind that you are _asking_ us to help pay for your education. Take a few moments to craft a request worthy of 
-others attention.
-</blockquote>
+{% include scholarship-provisions.html %}
 
 ## Application
+
+{% include mail-to.md %}
+
 ### David S. Jones MTF Flight Training Scholarship
 
 ### Items to Include 
