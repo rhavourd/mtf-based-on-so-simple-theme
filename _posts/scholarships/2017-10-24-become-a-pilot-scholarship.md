@@ -1,11 +1,17 @@
 ---
 layout: page
 categories: scholarship
-title: David S. Jones MTF Flight Training Scholarship
-excerpt: "The David S. Jones MTF Flight Training Scholarship is made possible by a generous donation from Carol Jones.  It is intended to increase the number of aviation career candidates and help them earn an initial pilot certificate." 
+title: Become A Pilot Flight Training Scholarship
+excerpt: "The Become A Pilot Flight Training Scholarship is made possible by a generous donation 
+from McClellan Aircraft, Flint Bishop Airport, and AvFlight Flint.  
+It is intended to increase the number of aviation career candidates and help 
+them earn an initial pilot certificate." 
 ---
 
-{{ post.excerpt }}
+{{ post.title }} is made possible by a generous donation 
+from McClellan Aircraft, Flint Bishop Airport, and AvFlight Flint. 
+It is intended to increase the number of aviation career candidates and help 
+them earn an initial pilot certificate.
 
 {% include scholarship-provisions.html %}
 
@@ -13,7 +19,8 @@ excerpt: "The David S. Jones MTF Flight Training Scholarship is made possible by
 
 {% include mail-to.md %}
 
-### {{ post.title }}
+### David S. Jones MTF Flight Training Scholarship
+
 ### Items to Include 
 First Name, Last Name 
 
