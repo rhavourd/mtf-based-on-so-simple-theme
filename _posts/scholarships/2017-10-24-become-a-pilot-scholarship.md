@@ -19,7 +19,7 @@ them earn an initial pilot certificate.
 
 {% include mail-to.md %}
 
-### David S. Jones MTF Flight Training Scholarship
+### {{ post.title }}
 
 ### Items to Include 
 First Name, Last Name 
