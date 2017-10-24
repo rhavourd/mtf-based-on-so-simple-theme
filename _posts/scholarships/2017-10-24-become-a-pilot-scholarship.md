@@ -8,7 +8,7 @@ It is intended to increase the number of aviation career candidates and help
 them earn an initial pilot certificate." 
 ---
 
-{{ post.title }} is made possible by a generous donation 
+{{ post.title | markdownify }} is made possible by a generous donation 
 from McClellan Aircraft, Flint Bishop Airport, and AvFlight Flint. 
 It is intended to increase the number of aviation career candidates and help 
 them earn an initial pilot certificate.
