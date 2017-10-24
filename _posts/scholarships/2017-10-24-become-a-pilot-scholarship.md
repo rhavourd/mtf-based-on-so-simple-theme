@@ -8,7 +8,7 @@ It is intended to increase the number of aviation career candidates and help
 them earn an initial pilot certificate." 
 ---
 
-{{ post.title | markdownify }} is made possible by a generous donation 
+Become A Pilot Flight Training Scholarship is made possible by a generous donation 
 from McClellan Aircraft, Flint Bishop Airport, and AvFlight Flint. 
 It is intended to increase the number of aviation career candidates and help 
 them earn an initial pilot certificate.
@@ -19,7 +19,7 @@ them earn an initial pilot certificate.
 
 {% include mail-to.md %}
 
-### {{ post.title }}
+### Become A Pilot Flight Training Scholarship
 
 ### Items to Include 
 First Name, Last Name 
